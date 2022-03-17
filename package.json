@@ -1,0 +1,15 @@
+{
+  "name": "cluster-size-fn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy_sync": "deploy.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^96.0.0",
+    "safe-buffer": "^5.2.1"
+  }
+}
